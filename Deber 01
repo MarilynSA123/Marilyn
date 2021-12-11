@@ -1,0 +1,51 @@
+DELL@DESKTOP-8S2L2HN MINGW64 ~
+$ cd ~/Documents/Github/CSB/unix/data/Saavedra2013
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ ls
+n1.txt   n17.txt  n24.txt  n31.txt  n39.txt  n46.txt  n53.txt  n7.txt
+n10.txt  n18.txt  n25.txt  n32.txt  n4.txt   n47.txt  n54.txt  n8.txt
+n11.txt  n19.txt  n26.txt  n33.txt  n40.txt  n48.txt  n55.txt  n9.txt
+n12.txt  n2.txt   n27.txt  n34.txt  n41.txt  n49.txt  n56.txt  netsize.sh
+n13.txt  n20.txt  n28.txt  n35.txt  n42.txt  n5.txt   n57.txt  netsize.txt
+n14.txt  n21.txt  n29.txt  n36.txt  n43.txt  n50.txt  n58.txt  netsize_all.txt
+n15.txt  n22.txt  n3.txt   n37.txt  n44.txt  n51.txt  n59.txt  netsize_ll.txt
+n16.txt  n23.txt  n30.txt  n38.txt  n45.txt  n52.txt  n6.txt
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ nano netsize.sh
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ nano netsize.sh n54.txt
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ nano netsize.sh
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ bash netsize.sh n2.txt
+Filename: Saavedra2013/n2.txt
+numero de filas:
+62
+numero de columnas:
+41
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ bash netsize.sh n54.txt
+Filename: Saavedra2013/n54.txt
+numero de filas:
+126
+numero de columnas:
+25
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ bash netsize_all n45.txt
+bash: netsize_all: No such file or directory
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ git config --global user.name "MarilynSA123"
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$ mkdir Marilyn
+
+DELL@DESKTOP-8S2L2HN MINGW64 ~/Documents/Github/CSB/unix/data/Saavedra2013 (master)
+$
